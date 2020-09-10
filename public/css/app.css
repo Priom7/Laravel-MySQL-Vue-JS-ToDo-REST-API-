@@ -1,0 +1,2 @@
+mix.less('resources/less/app.less', 'public/css')
+    .less('resources/less/admin.less', 'public/css');
